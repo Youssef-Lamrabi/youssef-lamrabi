@@ -2,7 +2,7 @@
 <h3 align="center">Future Big Data & Information Systems Engineer</h3>
 
 - 🎓 I'm currently pursuing a degree in **Big Data and Information Systems Engineering**
-- 🌱 I’m learning about **Data Science, Generative AI, and DevOps**
+- 🌱 I’m learning about **Data Science, Generative AI, and MlOps**
 - 💼 I’m passionate about developing intelligent systems and scalable data pipelines
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/youssef-lamrabi)
 
